@@ -7,9 +7,8 @@ Optimized Data Retrieval: Employs cutting-edge algorithms for high-speed data ex
 Intuitive User Experience: Designed for simplicity, enabling users of all technical backgrounds to operate it effectively.
 Robust Data Analysis: Incorporates advanced features for in-depth data processing and analytics.
 Flexible Customization: Offers various options for personalizing the script according to user-specific requirements.
-Installation
-bash
-Copy code
+
+# Installation
 
 # Clone the repository
 git clone [repository-url]
@@ -19,24 +18,24 @@ cd [script-directory]
 
 # Install dependencies
 pip install -r requirements.txt
+Follow the interactive prompts to complete the data extraction process
 
-# Follow the interactive prompts to complete the data extraction process
-Contributing
+# Contributing
 We encourage contributions that improve the script's functionality and usability. To contribute:
 
-# Fork the repository
-# Create a new feature branch
+Fork the repository
+
+Create a new feature branch
 git checkout -b feature/YourFeatureName
 
-# Commit your changes
+Commit your changes
 git commit -m 'Add some amazing feature'
 
-# Push to the branch
+Push to the branch
 git push origin feature/YourFeatureName
 
-# Create a new Pull Request
-License
+# License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-Support and Feedback
+# Support and Feedback
 For support, feedback, or bug reporting, please submit an issue in this repository's issue tracker.
