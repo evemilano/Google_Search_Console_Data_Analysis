@@ -1,8 +1,8 @@
-2023 GSC Extractor v7.2 - GIOGPT Turbo
+##GSC Extractor
 Overview
-The 2023 GSC Extractor v7.2 - GIOGPT Turbo is an advanced Python script tailored for seamless and efficient data extraction from Google Search Console. This tool is specifically designed to cater to the evolving needs of SEO professionals and data analysts, offering a blend of performance, ease of use, and customization.
+The GSC Extractor is an advanced Python script tailored for seamless and efficient data extraction from Google Search Console. This tool is specifically designed to cater to the evolving needs of SEO professionals and data analysts, offering a blend of performance, ease of use, and customization.
 
-Key Features
+##Key Features
 Optimized Data Retrieval: Employs cutting-edge algorithms for high-speed data extraction from GSC.
 Intuitive User Experience: Designed for simplicity, enabling users of all technical backgrounds to operate it effectively.
 Robust Data Analysis: Incorporates advanced features for in-depth data processing and analytics.
