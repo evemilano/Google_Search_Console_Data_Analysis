@@ -1,7 +1,0 @@
-# .gitignore
-.env
-client_secret_.json
-credentials.json
-gsc_ext_brand_kw
-git_cmd.txt
-output/
