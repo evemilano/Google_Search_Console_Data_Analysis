@@ -49,3 +49,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 # Support and Feedback
 For support, feedback, or bug reporting, please submit an issue in this repository's issue tracker.
+
+Made by https://www.evemilano.com
